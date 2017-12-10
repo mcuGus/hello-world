@@ -1,2 +1,2 @@
 # hello-world
-un pequeño repositorio
+Un pequeño repositorio.
